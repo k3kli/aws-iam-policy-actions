@@ -1,0 +1,14 @@
+{
+  "name": "aws_policies",
+  "version": "1.0.0",
+  "description": "Generates JSON file that contains all actions for AWS Services to help with creatin policies in AWS CDK",
+  "main": "index.js",
+  "scripts": {
+    "generate_Actions": "node index.js"
+  },
+  "author": "kevklinger",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.1.0"
+  }
+}
